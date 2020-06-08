@@ -1,6 +1,6 @@
 +++
-author = ""
-date = ""
+author = "Benjamin Akera"
+date = 2020-06-08T04:00:00Z
 draft = true
 hero = "/images/hands.jpg"
 title = "Init"
