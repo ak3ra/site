@@ -1,6 +1,7 @@
 +++
 author = ""
 date = ""
+draft = true
 hero = "/images/hands.jpg"
 title = "Init"
 type = "blog"
