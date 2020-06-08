@@ -22,13 +22,13 @@ fields:
     config:
       required: false
     label: Twitter Handle
-    description: Enter Twitter Handle Here
+    description: Benjaminakera
   - name: github_handle
     type: text
     config:
       required: false
     label: Github Handle
-    description: Enter github handle here
+    description: ak3ra
   - name: email
     type: text
     config:
